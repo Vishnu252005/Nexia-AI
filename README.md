@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀Hugging Face Chatbot🤖</h1>
+  <h1>🚀Nexia AI🤖</h1>
 
   <p>
     <a href="https://github.com/ElonMusk2002/chat-huggingface/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ElonMusk2002/chat-huggingface?style=for-the-badge&logo=github"></a>
@@ -69,7 +69,7 @@ To run the example locally you need to:
 
 ## 🤝 Contributing
 
-If you want to contribute to this project, feel free to open a [pull request](https://github.com/ElonMusk2002/chat-huggingface/pulls) or an [issue](https://github.com/ElonMusk2002/chat-huggingface/issues) on GitHub. Before submitting any changes, please make sure you follow these guidelines:
+If you want to contribute to this project, feel free to open a [pull request](https://github.com/Vishnu252005/Nexia-AI/pulls) or an [issue](https://github.com/Vishnu252005/Nexia-AI/issues) on GitHub. Before submitting any changes, please make sure you follow these guidelines:
 
 - Check if someone else has already reported the same issue or suggested the same improvement.
 - Create a new branch for your changes and use descriptive branch names.
