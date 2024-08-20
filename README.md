@@ -1,11 +1,7 @@
 <div align="center">
   <h1>🚀Nexia AI🤖</h1>
 
-  <p>
-    <a href="https://github.com/ElonMusk2002/chat-huggingface/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ElonMusk2002/chat-huggingface?style=for-the-badge&logo=github"></a>
-    <a href="https://github.com/ElonMusk2002/chat-huggingface/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ElonMusk2002/chat-huggingface?style=for-the-badge&logo=github"></a>
-    <a href="https://github.com/ElonMusk2002/chat-huggingface/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ElonMusk2002/chat-huggingface?style=for-the-badge&logo=github"></a>
-   </p>
+  
   
   
   <p>This project is a template for building a chatbot using TypeScript and Next.js, powered by the Hugging Face API. With this template, you can quickly set up a chatbot that uses the Open Assistant SFT-4 12B model to answer various questions and engage in conversations on different topics.</p>
